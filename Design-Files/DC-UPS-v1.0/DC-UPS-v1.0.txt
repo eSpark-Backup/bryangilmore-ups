@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : S:\bryangilmore-ups\Design-Files\DC-UPS-v1.0\DC-UPS-v1.0.PcbDoc
+Date         : 8/23/2024
+Time         : 6:44:38 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 8.80%
+    Connections, 568
+    Connections routed, 50
+    Connections remaining, 518
+count : 4
