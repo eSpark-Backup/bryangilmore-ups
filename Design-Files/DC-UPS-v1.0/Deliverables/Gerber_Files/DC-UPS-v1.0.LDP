@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\MarsVirgo\Documents\GitHub\bryangilmore-ups\Design-Files\DC-UPS-v1.0\DC-UPS-v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dc-ups-v1.0-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=dc-ups-v1.0-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
